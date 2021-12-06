@@ -1,2 +1,2 @@
 # Dogs_Android_app
-![Screenshot](https://github.com/Lara-GH/Dogs_Android_app/dogs.png)
+![Alt text](/relative/path/to/dogs.png?raw=true "Optional Title")
